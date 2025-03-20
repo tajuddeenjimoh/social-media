@@ -1,0 +1,70 @@
+body{
+    display: block;
+    background-color: navajowhite;
+}
+
+
+.box{
+    width: 400px;
+    border: 5px solid navajowhite;
+    height: 605px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border-radius: 30px;
+    align-items: center;
+    background-color: black;
+}
+
+img{
+    border: 9px solid navajowhite;
+    border-radius: 500px;
+    margin-left: 110px;
+    margin-top: 15px;
+    width: 150px;
+    
+}
+
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top:auto;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+h2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-left: 90px;
+    margin-top: 5px;
+    font-size: larger;
+    margin-top:auto;
+    color: white;
+}
+
+h3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 30px;
+    margin-top: 5px;
+    font-size:medium;
+    margin-top:auto;
+    color: white;
+}
+
+.btn{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    background-color: navajowhite;
+    height: 35px;
+    border-radius: 7px;
+    color: black;
+    font-size: larger;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+    
+
+
+
